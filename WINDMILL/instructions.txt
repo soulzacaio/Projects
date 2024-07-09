@@ -1,0 +1,24 @@
+
+--> Windmill Solitaire uses 104 cards (2 decks). 
+--> An Ace is automatically moved to the center. 
+--> Four Kings are placed diagonally around the Ace during the game. 
+--> These 5 cards form 5 foundation piles. You also have 8 tableau/sail piles (with one card per pile) placed on the board in the form of a cross.
+
+-------------------GOAL:
+
+--> To build all cards on foundations. 
+--> You must move 52 cards in order of rank (A, 2,3,...,K,A,2...) on the Ace in the center, wrapping from Ace to King as necessary. 
+--> You must move 13 cards in reverse order (K,Q,...,2,A) on the four Kings.
+
+-------------------RULES:
+
+--> Each tableau/sail pile can contain only one card. 
+--> The top card of the waste pile and cards in tableau/sail piles are available to play on foundations. 
+--> Spaces in tableaus are filled automatically from the waste or stock piles.
+
+
+--> When you have made all the moves initially available, begin turning over cards from the stock to the waste pile. 
+--> he top card from any of the King foundations can be moved to the Ace foundation. 
+--> Although, playing from a King Foundation twice is illegal, once the Ace Foundation receives a card from a King Foundation,
+the next card must come from elsewhere. 
+-->It's obvious that you should do this only if it can help you use other suitable cards from the sails or the stock.

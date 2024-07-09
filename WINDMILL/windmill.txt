@@ -1,0 +1,4 @@
+Windmill is a solitaire card game.
+The game is very laidback and there are really no losers, it's more about giving
+you something to do than keeping score.
+Check "How to play" for a detailed look at the rules.
